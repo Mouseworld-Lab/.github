@@ -1,9 +1,8 @@
 # Mouseworld Lab 
 
-Mouseworld explores the use of Network Digital Twins to create synthetic network environments, that reflect an abstraction of the real world in order to experiment with different use cases, with the aim of optimizing and improving real networks based on these experiments.
+Mouseworld is a framework that creates containerized twin network environments replicating real networks. It implements a knowledge graph that enables the creation and deployment of the network digital twin based on data retrieved from the real infrastructure.
 
 ![Mouseworld](https://raw.githubusercontent.com/Mouseworld-Lab/MW-figures/main/IETF-NDT.png)
-
 
 **Real Network**
   - [Real network deployment](https://github.com/Mouseworld-Lab/NDT-EDGE/blob/main/realnetwork/README.md): OpenStack-based deployment of a virtual network using FRRouting routers.
