@@ -5,7 +5,7 @@ Mouseworld is a framework that creates containerized twin network environments r
 ![Mouseworld](https://raw.githubusercontent.com/Mouseworld-Lab/MW-figures/main/IETF-NDT.png)
 
 **Real Network**
-  - [Real network deployment](https://github.com/Mouseworld-Lab/NDT-EDGE/blob/main/realnetwork/README.md): OpenStack-based deployment of a virtual network using FRRouting routers.
+  - [Real network deployment](https://github.com/Mouseworld-Lab/Opentofu/realnetwork): Network Topology in OpenStack with FRRouting routers using OpenTofu.
 
 #### Mouseworld Modules
 
